@@ -1,0 +1,38 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "co.immanuel.hudson"
+        },
+        "com.googlemaps.ios": {
+            "PACKAGE_NAME": "co.immanuel.hudson"
+        },
+        "cordova-plugin-googlemaps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyDwHYw3iQcIgjeKtxhGxPbmfSOGmlbXRPE",
+            "PACKAGE_NAME": "co.immanuel.hudson"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        }
+    }
+}

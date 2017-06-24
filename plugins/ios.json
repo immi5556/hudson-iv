@@ -1,0 +1,41 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-geolocation": {
+            "GEOLOCATION_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "com.googlemaps.ios": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        },
+        "cordova-plugin-googlemaps": {
+            "API_KEY_FOR_IOS": "AIzaSyDnFboaD1fzzFfhlj1Q2NEbYmvbMaIbmnM",
+            "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
+            "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegappro.gmapexample"
+        }
+    }
+}
